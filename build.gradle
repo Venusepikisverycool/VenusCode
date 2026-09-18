@@ -22,7 +22,7 @@ test {
 jar {
     manifest {
         attributes(
-                'Main-Class': 'dev.venus.venuscode.VenusCodeCLI'
+                'Main-Class': 'dev.venus.venuscode.VenusCodeGUI'
         )
     }
 }

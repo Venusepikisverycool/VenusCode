@@ -26,6 +26,7 @@ public class VenusCodeGUI {
     private static JFrame window;
 
     private static JPanel mainPanel;
+    private static JPanel header;
     private static JPanel encodePanel;
     private static JPanel decodePanel;
 
@@ -83,7 +84,7 @@ public class VenusCodeGUI {
          * HEADER
          */
 
-        JPanel header =
+        header =
                 new JPanel(new BorderLayout());
 
         titleLabel =
@@ -96,10 +97,6 @@ public class VenusCodeGUI {
                         30
                 )
         );
-
-        /*
-         * DARK/LIGHT SWITCH
-         */
 
         JCheckBox themeSwitch =
                 new JCheckBox("Dark mode");
@@ -602,6 +599,10 @@ public class VenusCodeGUI {
         }
 
         mainPanel.setBackground(
+                background
+        );
+
+        header.setBackground(
                 background
         );
 

@@ -1,6 +1,6 @@
 # Venuscode README
 
-Venuscode is a little barcode kinda thing i made for fun, If you do install this PLEASE make sure you have java 21+ by doing java -version in your terminal/cmd prompt, Currently it only has a CLI, You use it like this:
+Venuscode is a little barcode kinda thing i made for fun, If you do install this PLEASE make sure you have java 21+ by doing java -version in your terminal/cmd prompt, You can get the CLI or the GUI, The GUI is easier to set up. You use it like this:
 
 ### THIS IS UNTESTED ON WINDOWS AND LINUX! IF YOU WANT TO TEST IT ON THOSE OPERATING SYSTEMS, TRY, I CANNOT GUARANTEE IT WILL WORK
 
@@ -37,3 +37,13 @@ Then enter: zsh install.sh
 You will get a little "VenusCode installed successfully!" thingamajing.
 
 You can then enter: source ~/.zshrc and you can now encode and decode!
+
+# How to install the GUI
+
+The GUI is universal and is the easiest to install.
+
+Download the .jar from the releases page.
+
+Double click it.
+
+The GUI will open and you can make your stuff!
