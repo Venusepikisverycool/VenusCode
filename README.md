@@ -10,7 +10,7 @@ venuscode encode "Message" ~/Desktop/filename.png
 
 venuscode decode ~/Desktop/filename.png
 
-Two examples:
+Two examples and an image:
 
 venuscode encode "https://www.wikipedia.org" ~/Desktop/filename.png
 
