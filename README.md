@@ -6,15 +6,15 @@ Venuscode is a little barcode kinda thing i made for fun, Currently it only has 
 
 If you want to encode and decode a message in venuscode, you type this into your terminal:
 
-venuscode encode "Message" ~/Desktop/filename
+venuscode encode "Message" ~/Desktop/filename.png
 
-venuscode decode ~/Desktop/filename
+venuscode decode ~/Desktop/filename.png
 
 Two examples:
 
-venuscode encode "https://www.wikipedia.org" ~/Desktop/filename
+venuscode encode "https://www.wikipedia.org" ~/Desktop/filename.png
 
-venuscode decode ~/Desktop/filename
+venuscode decode ~/Desktop/filename.png
 
 For windows encoding and decoding examples, [Check out this file](EXAMPLEwin.md)
 
