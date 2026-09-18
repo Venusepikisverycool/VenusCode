@@ -30,7 +30,7 @@ Firstly download the zip.
 
 Unzip it anywhere you like.
 
-Using terminal enter: cd ~/Desktop/macrelease
+Using terminal enter: cd ~/Desktop/mac.linux.release
 
 Then enter: zsh install.sh
 
