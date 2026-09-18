@@ -1,6 +1,6 @@
 # Venuscode README
 
-Venuscode is a little barcode kinda thing i made for fun, If you do install this PLEASE make sure you have java 21+ by doing java -version in your terminal/cmd prompt, Currently it only has a CLI and i havent made a release, You use it like this:
+Venuscode is a little barcode kinda thing i made for fun, If you do install this PLEASE make sure you have java 21+ by doing java -version in your terminal/cmd prompt, Currently it only has a CLI, You use it like this:
 
 ### THIS IS UNTESTED ON WINDOWS AND LINUX! IF YOU WANT TO TEST IT ON THOSE OPERATING SYSTEMS, TRY, I CANNOT GUARANTEE IT WILL WORK
 
