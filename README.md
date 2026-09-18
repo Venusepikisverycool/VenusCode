@@ -23,3 +23,17 @@ venuscode decode ~/Desktop/filename.png
 For windows encoding and decoding examples, [Check out this file](EXAMPLEwin.md)
 
 ## Again, currently there is only a CLI
+
+# How to install (mac release, for windows check [here](EXAMPLEwin.md))
+
+Firstly download the zip.
+
+Unzip it anywhere you like.
+
+Using terminal enter: cd ~/Desktop/macrelease
+
+Then enter: zsh install.sh
+
+You will get a little "VenusCode installed successfully!" thingamajing.
+
+You can then enter: source ~/.zshrc and you can now encode and decode!
