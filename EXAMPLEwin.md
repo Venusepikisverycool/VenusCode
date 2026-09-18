@@ -18,7 +18,7 @@ To go back to the README, press [here](README.md)
 
 # Installation guide
 
-To install, just get the jar from the windows release and place it somewhere convenient, For this example, Desktop. Open cmd prompt or whatever you'd like, and enter:
+To install, just get the zip from the windows release and place it somewhere convenient, Unzip wherever you placed it For this example, Desktop. Take the folder and drag the .jar out, You can then delete the folder if you want. Open cmd prompt or whatever you'd like, and enter:
 
 cd Desktop
 
