@@ -14,6 +14,8 @@ Two examples:
 
 venuscode encode "https://www.wikipedia.org" ~/Desktop/filename.png
 
+<img width="170" height="240" alt="example" src="https://github.com/user-attachments/assets/5d0a2631-e705-4d83-b11d-37b0af7ed797" />
+
 venuscode decode ~/Desktop/filename.png
 
 For windows encoding and decoding examples, [Check out this file](EXAMPLEwin.md)
