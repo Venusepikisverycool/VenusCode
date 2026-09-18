@@ -2,6 +2,8 @@
 
 Venuscode is a little barcode kinda thing i made for fun, Currently it only has a CLI and i havent made a release, You use it like this:
 
+### THIS IS UNTESTED ON WINDOWS AND LINUX! IF YOU WANT TO TEST IT ON THOSE OPERATING SYSTEMS, TRY, I CANNOT GUARANTEE IT WILL WORK
+
 If you want to encode and decode a message in venuscode, you type this into your terminal:
 
 venuscode encode "Message" ~/Desktop/filename
