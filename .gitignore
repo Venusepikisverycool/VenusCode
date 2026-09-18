@@ -29,6 +29,9 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+### Dev tools ###
+src/main/java/dev/venus/venuscode/Rotator.java
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
